@@ -1,0 +1,6 @@
+url: https://github.com/43aquarius/luna-plugin-army
+name: 43aquarius/luna-plugin-army
+category: ui
+description:
+  en: Panel card that lists every installed plugin across all dsh profiles (name, version, bundled status, missing-package alerts) in one inventory view.
+  zh: 鲸鱼娘插件军团总账 —— 面板 UI 直接看双 profile（headless 54 + web 19）全部插件：名字/版本/在位/bundle 注册/市场描述。数据走同源 /api/dsh/plugins。.
