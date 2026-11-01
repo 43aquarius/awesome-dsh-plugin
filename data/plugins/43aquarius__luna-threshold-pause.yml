@@ -1,0 +1,6 @@
+url: https://github.com/43aquarius/luna-threshold-pause
+name: 43aquarius/luna-threshold-pause
+category: skill
+description:
+  en: Pause before intake to avoid threshold dulling from fatigue.
+  zh: 信息摄入前先校验阈值，防止疲劳放水.
